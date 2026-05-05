@@ -11,4 +11,3 @@ a.show_info()
 b=Telangana()
 b.chiefminister()
 b.show_info()
-a.chiefminister
